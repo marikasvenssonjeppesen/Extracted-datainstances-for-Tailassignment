@@ -1,0 +1,9 @@
+This repository contains all datainstances used to obtain results in the paper:
+
+A Heuristic Method to solve large-scale Integer Linear Programs by combining Branch-and-Price with a Quantum Algorithm
+By: 
+
+Marika Svensson[1, 2, 3], Martin Andersson[1], Mattias Grönkvist[1], Pontus Vikstål[3] Devdatt Dubhashi[2], Giulia Ferrini[3] and Göran Johansson[3]
+[1] Jeppesen, 411 03 Gothenburg, Sweden.
+[2] Department of Computer Science, Chalmers University of Technology, 412 96 Gothenburg, Sweden
+[3] Wallenberg Centre for Quantum Technology, Department of Microtechnology and Nanoscience, Chalmers University of Technology, 412 96 Gothenburg, Sweden
